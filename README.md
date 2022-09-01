@@ -2,9 +2,9 @@
 
 ## GitHub Pages
 
-## Website
-
 These docs are published at [AI Powered Anomaly Detection for Predictive Maintenance](https://gloveboxes.github.io/AiPredictiveMaintenanceDocs/)
+
+## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
