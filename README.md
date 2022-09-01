@@ -1,6 +1,8 @@
-# Website
+# AI Powered Anomaly Detection for Predictive Maintenance Docs
 
-## GitHug Pages
+## GitHub Pages
+
+## Website
 
 These docs are published at [AI Powered Anomaly Detection for Predictive Maintenance](https://gloveboxes.github.io/AiPredictiveMaintenanceDocs/)
 
